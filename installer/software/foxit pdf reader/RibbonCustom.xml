@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><FoxitReader><CustomRibbon><tab name="Ribbon_Category_Home"><group name="Home_Panel_Comments" tabname="Ribbon_Category_Home" hidden="1"/>
+<group name="Home_Panel_Create" tabname="Ribbon_Category_Home" hidden="1"/>
+<group name="Edit_Panel_Insert" tabname="Ribbon_Category_Home" hidden="1"/>
+<group name="Home_Panel_Sign" tabname="Ribbon_Category_Home" hidden="1"/>
+<group name="Home_Panel_DocManage" tabname="Ribbon_Category_Home" hidden="1"/>
+<group name="COMMNET_Panel_TextMarkup" tabname="Ribbon_Category_Review"/>
+<group name="COMMENT_Panel_Typewriter" tabname="Ribbon_Category_Review"/>
+<group name="COMMENT_Panel_Drawing" tabname="Ribbon_Category_Review"/>
+<group name="Comment_Panel_Highlight" tabname="Ribbon_Category_Review"/>
+<group name="View_Panel_Rotate" tabname="Ribbon_Category_View"/>
+</tab>
+<tab name="Ribbon_Category_Review" hidden="1"/>
+<tab name="Ribbon_Category_Convert_Fxnet" hidden="1"/>
+<tab name="Ribbon_Category_View" hidden="1"/>
+<tab name="Ribbon_Category_Form" hidden="1"/>
+<tab name="Ribbon_Category_Protect" hidden="1"/>
+<tab name="Ribbon_Category_Share" hidden="1"/>
+<tab name="Ribbon_Category_SpecialFeatures" hidden="1"/>
+<tab name="Ribbon_Category_Demonstration" hidden="1"/>
+<tab name="Ribbon_Category_Presentation" hidden="1"/>
+<tab name="Ribbon_Category_Help" hidden="1"/>
+<tab name="Ribbon_Category_FillSign" hidden="1"/>
+<tab name="Ribbon_Category_Portfolio" hidden="1"/>
+</CustomRibbon>
+</FoxitReader>
