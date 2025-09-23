@@ -168,19 +168,9 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
-          },
-          {
-            "id": "4a3720f0c5dd29d2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -204,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a3720f0c5dd29d2",
+  "active": "7447ac50d1690f43",
   "lastOpenFiles": [
     "alphabet/THE NATO PHONETIC ALPHABET.url",
     "alphabet/20180111_nato-alphabet-sign-signal.pdf",
