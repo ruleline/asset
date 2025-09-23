@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e2577d915215c9cc",
+        "id": "62f1e91f0bf27d7f",
         "type": "tabs",
         "children": [
           {
-            "id": "02516837e248a856",
+            "id": "77e2374de0bb3b4a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 353.5
   },
   "right": {
     "id": "3d89ac88f6992da9",
@@ -109,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "Outgoing links"
             }
           },
           {
@@ -129,7 +128,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           },
           {
@@ -138,13 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "Outline"
             }
           },
           {
@@ -158,7 +156,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "添加笔记属性"
+              "title": "All properties"
             }
           },
           {
@@ -166,11 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "未命名.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
-              "title": "脚注"
+              "title": "Footnotes"
             }
           },
           {
@@ -188,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02516837e248a856",
+  "active": "77e2374de0bb3b4a",
   "lastOpenFiles": [
     "欢迎.md",
     "Excalidraw/Drawing 2025-09-22 20.45.52.excalidraw.md",
