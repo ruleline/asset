@@ -11,10 +11,14 @@
             "id": "77e2374de0bb3b4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -206,10 +210,20 @@
   },
   "active": "77e2374de0bb3b4a",
   "lastOpenFiles": [
+    "installer/software/obsidian/obsidian.url",
+    "installer/software/obsidian/obsidian-1.9.12.zip.023",
+    "installer/software/obsidian/obsidian-1.9.12.zip.022",
+    "installer/software/obsidian/obsidian-1.9.12.zip.021",
+    "installer/software/obsidian/obsidian-1.9.12.zip.020",
+    "installer/software/obsidian/obsidian-1.9.12.zip.019",
+    "installer/software/obsidian/obsidian-1.9.12.zip.018",
+    "installer/software/obsidian/obsidian-1.9.12.zip.017",
+    "installer/software/obsidian/obsidian-1.9.12.zip.016",
+    "installer/software/obsidian/obsidian-1.9.12.zip.015",
+    "installer/software/obsidian/obsidian-1.9.12.zip.014",
     "欢迎.md",
     "Excalidraw/Drawing 2025-09-22 20.45.52.excalidraw.md",
     "未命名.md",
-    "Excalidraw",
     "Code.md"
   ]
 }
