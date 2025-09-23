@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b5353d4d89b4bfa",
+        "id": "7c2695e93067d703",
         "type": "tabs",
         "children": [
           {
-            "id": "0b999e37edfdb46d",
+            "id": "84f90cc9022f1c83",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -204,19 +204,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b999e37edfdb46d",
+  "active": "4a3720f0c5dd29d2",
   "lastOpenFiles": [
-    "installer/software/7-zip/7z2501-x64.exe",
-    "installer/software/7-zip/7-zip github.url",
-    "installer/software/7-zip/7-zip.url",
-    "installer/software/7-zip/7z2409-x64.exe",
-    "installer/software/7-zip/7-Zip.url",
-    "installer/software/7-zip/7-Zip GitHub.url",
-    "installer/software/7-zip",
-    "installer/software/7-Zip/7z2409-x64.exe",
-    "installer/software/7-Zip/7-Zip.url",
-    "installer/software/7-Zip/7-Zip GitHub.url",
-    "installer/software/7-Zip",
+    "installer/software/git/git github.url",
+    "installer/software/git/New shortcut.lnk",
+    "installer/software/git/git-2.51.0-64-bit.exe",
+    "installer/software/git/Git-2.51.0-64-bit.exe",
+    "installer/software/git/git.url",
+    "installer/software/git/note/[GitHub][笔记][20240116]ssh connect to host github.com port 22 Connection refused.html",
+    "installer/software/git/note/config",
+    "installer/software/git/Git.url",
+    "installer/software/git/Git-2.50.1-64-bit.exe",
+    "installer/software/git/note",
+    "installer/software/git",
     "欢迎.md",
     "Excalidraw/Drawing 2025-09-22 20.45.52.excalidraw.md",
     "未命名.md",
