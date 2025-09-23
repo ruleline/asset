@@ -1,0 +1,10 @@
+{
+  "showLineNumber": true,
+  "tabSize": 8,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./attachments"
+}
