@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "140e8bac22b4bf41",
+        "id": "117252b9ded694c3",
         "type": "tabs",
         "children": [
           {
-            "id": "f9cd46deda5d071d",
+            "id": "05c5e0c01e44764a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -178,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "README.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -209,19 +193,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f9cd46deda5d071d",
+  "active": "05c5e0c01e44764a",
   "lastOpenFiles": [
+    "README.md",
+    "standard/commit/conventional-type.txt",
+    "standard/commit/config-conventional.url",
+    "standard/commit/New shortcut.lnk",
+    "standard/commit/conventional commit.url",
+    "standard/commit",
+    "standard/New folder",
+    "standard",
+    "New folder",
     "installer/extension/Untitled.md",
     "installer/software/cent browser/centbrowser_5.2.1168.83_x64.zip.011",
     "installer/software/cent browser/centbrowser_5.2.1168.83_x64.zip.002",
-    "installer/software/cent browser/centbrowser_5.2.1168.83_x64.zip.001",
-    "installer/software/cent browser/centbrowser_5.2.1168.83_x64.zip.011.tmp",
-    "installer/software/cent browser/centbrowser_5.2.1168.83_x64.zip.010.tmp",
-    "installer/software/cent browser/centbrowser_5.2.1168.83_x64.zip.009.tmp",
-    "installer/software/cent browser/centbrowser_5.2.1168.83_x64.zip.008.tmp",
-    "installer/software/cent browser/centbrowser_5.2.1168.83_x64.zip.007.tmp",
-    "installer/software/cent browser/centbrowser_5.2.1168.83_x64.zip.006.tmp",
-    "installer/software/cent browser/centbrowser_5.2.1168.83_x64.zip.005.tmp",
     "alphabet/20180111_nato-alphabet-sign-signal.jpg",
     "font/sf mono nerd font/SF-Mono-Nerd-Font/README.md",
     "font/sf mono nerd font/SF-Mono-Nerd-Font/Prompt.png",
