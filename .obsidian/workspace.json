@@ -170,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -193,20 +193,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "05c5e0c01e44764a",
+  "active": "6e53d08e72dd228a",
   "lastOpenFiles": [
+    "installer/software/stretchly/Stretchly-Setup-1.18.0.exe",
+    "installer/software/stretchly/stretchly.url",
+    "installer/software/stretchly/stretchly github.url",
+    "installer/software/stretchly/Stretchly.url",
+    "installer/software/stretchly/Stretchly-Setup-1.17.2.exe",
+    "installer/software/stretchly/Stretchly GitHub.url",
+    "installer/software/stretchly",
+    "installer/software/Stretchly/Stretchly.url",
+    "installer/software/Stretchly/Stretchly-Setup-1.17.2.exe",
+    "installer/software/Stretchly/Stretchly GitHub.url",
+    "installer/software/Stretchly",
     "README.md",
-    "standard/commit/conventional-type.txt",
-    "standard/commit/config-conventional.url",
-    "standard/commit/New shortcut.lnk",
-    "standard/commit/conventional commit.url",
-    "standard/commit",
-    "standard/New folder",
-    "standard",
-    "New folder",
     "installer/extension/Untitled.md",
-    "installer/software/cent browser/centbrowser_5.2.1168.83_x64.zip.011",
-    "installer/software/cent browser/centbrowser_5.2.1168.83_x64.zip.002",
     "alphabet/20180111_nato-alphabet-sign-signal.jpg",
     "font/sf mono nerd font/SF-Mono-Nerd-Font/README.md",
     "font/sf mono nerd font/SF-Mono-Nerd-Font/Prompt.png",
